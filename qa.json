@@ -1,0 +1,18 @@
+[
+  {
+    "quest": "Are you Yana?",
+    "ans": "1"
+  },
+  {
+    "quest": "Is your surname Dontsova?",
+    "ans": "1"
+  },
+  {
+    "quest" : "Is you age is 21?",
+    "good" : "0"
+  },
+  {
+    "quest" : "Have you any sisters?",
+    "good" : "0"
+  }
+]
